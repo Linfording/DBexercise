@@ -1,12 +1,9 @@
 package dbpoolc3p0;
 
-import java.beans.PropertyVetoException;
 import java.sql.Connection;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
-
-import properties.properties;
 
 import utils.DBUtils;
 
